@@ -1,3 +1,3 @@
-# Linux Resources
+<p align="center"> # Linux Resources
 
-[tlp-pd debian-trixie install](https://www.github.com/riotingpetals/tlp-pd-Debian-trixie/)
+<p align="center"> [tlp-pd debian-trixie install](https://www.github.com/riotingpetals/tlp-pd-Debian-trixie/)
