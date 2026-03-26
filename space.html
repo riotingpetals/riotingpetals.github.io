@@ -9,7 +9,7 @@
   document.getElementById('fetchImage').addEventListener('click', fetchImage);
 
   function fetchImage() {
-    fetch('https:/curl/api.nasa.gov/planetary/apod?api_key=8gvaOa1QlKawh1pOwb3nduvAV2qTDBgwlgXaZkr')
+    fetch('https://api.nasa.gov/planetary/apod?api_key=8gvaOa1QlKawh1pOwb3nduvAV2qTDBgwlgXaZkr')
       .then(response => response.json())
       .then(data => {
         const imageUrl = data[0].url; // Get the image URL from the response
